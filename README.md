@@ -11,8 +11,8 @@ Este projeto foi criado como desafio para explorar colaboração no GitHub e for
 - ✅ Praticar Git branches e pull requests
 
 ## 👥 Colaboradores
-- [Seu Nome](https://github.com/renylsonmarques)
-- [Colaborador](https://github.com/renylson)
+- [Renylson Maques](https://github.com/renylsonmarques)
+- [Renylson](https://github.com/renylson)
 
 ## 📝 Como Contribuir
 1. Faça um fork do projeto
